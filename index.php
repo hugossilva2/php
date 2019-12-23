@@ -1,4 +1,4 @@
 <?php
-echo "Meu Primeiro Hello Word";
+echo "Olá Mundo";
 
 ?>
