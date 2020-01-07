@@ -64,6 +64,16 @@
                     </ul>
                     
                 </div>
+
+                <div class="modulo azul">
+                    <h3>Variavéis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaves&file=basico">Variaves</a></li>
+                        
+                    </ul>
+                    
+                    
+                </div>
                 
             </nave>
 
