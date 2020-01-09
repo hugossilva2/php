@@ -7,6 +7,10 @@ body.exercicio{
        "rodape" ;
 }
 
+p { 
+    margin-bottom: 0px;
+}
+
 .principal {
     height: clac (100vh - 240px);
 }

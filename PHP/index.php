@@ -93,6 +93,22 @@
                         
                     </ul>
                 </div>
+                <div class="modulo roxo">
+                    <h3>Variavéis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">Estruturas de Controle</a></li>
+                        
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Op. Relacionais</a></li>
+                        
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Op. Logicos</a></li>
+                        
+                    </ul>
+                    
+                </div>
                 
             </nave>
 
