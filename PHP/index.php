@@ -94,7 +94,7 @@
                     </ul>
                 </div>
                 <div class="modulo roxo">
-                    <h3>Variavéis</h3>
+                    <h3>Controle</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=if_else">Estruturas de Controle</a></li>
                         
@@ -105,6 +105,21 @@
                     </ul>
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Op. Logicos</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desfio Op. Logicos</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=operador_ternario">Op. Ternários</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle&file=switch">Switch</a></li>
+                    </ul>
+                </div>
+                <div class="modulo laranja">
+                    <h3>Array</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=basico">Array Basico</a></li>
                         
                     </ul>
                     
