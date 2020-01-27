@@ -122,6 +122,15 @@
                         <li><a href="exercicio.php?dir=array&file=basico">Array Basico</a></li>
                         
                     </ul>
+                     
+                     <ul>
+                        <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
+                        
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=operacoes">Operações Arrays</a></li>
+                        
+                    </ul>
                     
                 </div>
                 
