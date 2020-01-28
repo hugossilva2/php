@@ -131,7 +131,27 @@
                         <li><a href="exercicio.php?dir=array&file=operacoes">Operações Arrays</a></li>
                         
                     </ul>
-                    
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a></li>
+                        
+                    </ul>
+
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=multi">Array Multidimensional</a></li>
+                        
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=constantes">Array Constatantes</a></li>
+                        
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=array&file=get">$_GET</a></li>
+                        
+                    </ul>
+                     <ul>
+                        <li><a href="exercicio.php?dir=array&file=post">$_POST</a></li>
+                        
+                    </ul>
                 </div>
                 
             </nave>
