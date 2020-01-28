@@ -153,6 +153,14 @@
                         
                     </ul>
                 </div>
+                <div class="modulo verde-escuro">
+                    <h3>Repetições</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=for">For</a></li>
+                    </ul>
+                     
+                     
+                </div>
                 
             </nave>
 
