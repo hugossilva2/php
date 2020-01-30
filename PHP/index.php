@@ -158,7 +158,16 @@
                     <ul>
                         <li><a href="exercicio.php?dir=repeticoes&file=for">Laço For</a></li>
                     </ul>                    
-                     
+                     <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=foreach">ForEach</a></li>
+                    </ul> 
+                    <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break Continue</a></li>
+                    </ul>  
+                  <ul>
+                        <li><a href="exercicio.php?dir=repeticoes&file=while">While / DO While</a></li>
+                    </ul>  
+                    
                 </div>
                 
             </nave>
