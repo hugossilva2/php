@@ -169,6 +169,18 @@
                     </ul>  
                     
                 </div>
+                <div class="modulo vermelho-escuro">
+                    <h3>Funções</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=escopo">Funções & Escopo</a></li>
+                    </ul>  
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_retorno">Argumentos & Retornos</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=desafio_palindromo">Desafio Palindromo</a></li>
+                    </ul>
+                </div>
                 
             </nave>
 
