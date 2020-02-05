@@ -180,6 +180,28 @@
                     <ul>
                         <li><a href="exercicio.php?dir=funcoes&file=desafio_palindromo">Desafio Palindromo</a></li>
                     </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Argumento/Variaveis</a></li>
+                    </ul>
+                     <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_padrao">Argumento Padrão</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipos</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=anonimas">Funções Anônimas</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=closure_callable">Closure e Callable</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=retornando_funcao">Retornadno Função</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=map_filter">Map & Filter</a></li>
+                    </ul>
+                    
                 </div>
                 
             </nave>
