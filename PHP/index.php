@@ -203,7 +203,24 @@
                     </ul>
                     
                 </div>
-                
+                <div class="modulo azul-escuro">
+                    <h3>Paradigma O.O</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=classe">Primeira Classe</a></li>                        
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=classe_data">Classe Data </a></li>                    
+                    </ul>
+                    <ul>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor & Destrutor </a></li>                    
+                    </ul>
+                     <ul>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=heranca">Herança</a></li>                    
+                    </ul>
+                     <ul>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=visibilidade">Visibilidade</a></li>                    
+                    </ul>
+                </div>
             </nave>
 
         </div>
