@@ -1,0 +1,38 @@
+body {
+    background-color: #f00;
+}
+
+header {
+    background-color: #0f0;
+}
+
+#titulo {
+    color: #ff00ff;
+    text-align: center;
+    font-size: 50px;
+}
+
+nav {
+    color: #ff2600;
+    background-color: rgba(0, 0, 255, 0.192);
+    text-align: center;
+    font-size: 50px;
+}
+
+section {
+    background-color: #ffff00;
+    text-align: center;
+    font-size: 50px;
+    margin: 50px 0px 50px 0px;
+}
+
+aside {
+    background-color: #00ffff;
+    text-align: left;
+    font-size: 50px;
+}
+
+footer {
+    background-color: #ff00ff;
+    font-size: 50px;
+}
